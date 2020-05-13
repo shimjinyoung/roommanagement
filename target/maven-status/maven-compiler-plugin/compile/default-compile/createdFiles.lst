@@ -1,0 +1,11 @@
+hotelmanage\CheckedOut.class
+hotelmanage\RoomManagementController.class
+hotelmanage\RoomManagementRepository.class
+hotelmanage\AbstractEvent.class
+hotelmanage\RoomManagement.class
+hotelmanage\AbstractEvent$1.class
+hotelmanage\PolicyHandler.class
+hotelmanage\Application.class
+hotelmanage\config\kafka\KafkaProcessor.class
+hotelmanage\Reserved.class
+hotelmanage\RoomConditionChanged.class
