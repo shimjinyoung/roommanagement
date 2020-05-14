@@ -4,9 +4,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/../../test/PaymentManagement-master/pom.xml" />
-        <option value="$PROJECT_DIR$/../../test/ReservationManagement-master/pom.xml" />
-        <option value="$PROJECT_DIR$/../../test/RoomInfo-master/RoomInfo-master/pom.xml" />
+        <option value="C:/test/PaymentManagement-master/pom.xml" />
+        <option value="C:/test/ReservationManagement-master/pom.xml" />
+        <option value="C:/test/RoomInfo-master/RoomInfo-master/pom.xml" />
+        <option value="C:/test/gateway-master/gateway-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../RoomInfo-master/RoomInfo-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../ReservationManagement-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../PaymentManagement-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../gateway-master/gateway-master/pom.xml" />
+        <option value="$PROJECT_DIR$/../bizpartner/pom.xml" />
       </list>
     </option>
   </component>

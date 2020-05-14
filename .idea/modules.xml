@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../test/ReservationManagement-master/ReservationManagement.iml" filepath="$PROJECT_DIR$/../../test/ReservationManagement-master/ReservationManagement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../test/RoomInfo-master/RoomInfo-master/RoomInfo.iml" filepath="$PROJECT_DIR$/../../test/RoomInfo-master/RoomInfo-master/RoomInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ReservationManagement-master/ReservationManagement.iml" filepath="$PROJECT_DIR$/../ReservationManagement-master/ReservationManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RoomInfo-master/RoomInfo-master/RoomInfo.iml" filepath="$PROJECT_DIR$/../RoomInfo-master/RoomInfo-master/RoomInfo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RoomManagement.iml" filepath="$PROJECT_DIR$/RoomManagement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../test/PaymentManagement-master/pay.iml" filepath="$PROJECT_DIR$/../../test/PaymentManagement-master/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gateway-master/gateway-master/boot-camp-gateway.iml" filepath="$PROJECT_DIR$/../gateway-master/gateway-master/boot-camp-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PaymentManagement-master/pay.iml" filepath="$PROJECT_DIR$/../PaymentManagement-master/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bizpartner/객실사업자관리.iml" filepath="$PROJECT_DIR$/../bizpartner/객실사업자관리.iml" />
     </modules>
   </component>
 </project>

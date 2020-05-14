@@ -6,17 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="pay" />
-        <module name="RoomInfo" />
-        <module name="ReservationManagement" />
         <module name="RoomManagement" />
+        <module name="RoomInfo" />
+        <module name="boot-camp-gateway" />
+        <module name="pay" />
+        <module name="ReservationManagement" />
+        <module name="객실사업자관리" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="boot-camp-gateway" target="1.8" />
       <module name="pay" target="1.8" />
       <module name="ReservationManagement" target="1.8" />
       <module name="RoomInfo" target="1.8" />
       <module name="RoomManagement" target="1.8" />
+      <module name="객실 관리 시스템" target="1.8" />
+      <module name="객실사업자관리" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -24,7 +29,10 @@
       <module name="ReservationManagement" options="-parameters" />
       <module name="RoomInfo" options="-parameters" />
       <module name="RoomManagement" options="-parameters" />
+      <module name="boot-camp-gateway" options="-parameters" />
       <module name="pay" options="-parameters" />
+      <module name="객실 관리 시스템" options="-parameters" />
+      <module name="객실사업자관리" options="-parameters" />
     </option>
   </component>
 </project>
